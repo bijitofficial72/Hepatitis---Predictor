@@ -1,32 +1,25 @@
-### Data Science Project
-### Machine Learning Web App with Flask
-
-#### Purpose
-+ A productionized ML web app for hepatitis mortality prediction
+## Deployment
+https://hepatitis-predictor.herokuapp.com/
 
 
-#### Requirements
-+ Flask
-+ Pandas
-+ Scikit-learn
-+ Numpy
-+ Bootstrap
+### Requirements
+certifi==2020.4.5.1
+click==7.1.2
+Flask==1.1.2
+gunicorn==20.0.4
+itsdangerous==1.1.0
+Jinja2==2.11.2
+joblib==0.15.1
+MarkupSafe==1.1.1
+numpy==1.18.4
+scikit-learn==0.23.1
+scipy==1.4.1
+threadpoolctl==2.0.0
+Werkzeug==1.0.1
+wincertstore==0.2
 
 
 #### Screenshot
-![](images/ml_flask_app01.png)
+![](images/img.png)
 
 
-
-![](images/ml_flask_app02.png)
-
-
-
-![](images/ml_flask_app03.png)
-
-
-
-
-#### .
-+ Jesus Saves @JCharisTech
-+ By Jesse E.Agbe(JCharis)
